@@ -1,0 +1,36 @@
+{
+    "expenses": [
+        {
+            "route": "Rongai - CBD",
+            "amount": 60,
+            "time": "normal",
+            "date": "2026-05-24"
+        },
+        {
+            "route": "Ruaka - CBD",
+            "amount": 40.0,
+            "time": "normal",
+            "date": "2026-05-24"
+        }
+    ],
+    "crowd_reports": [
+        {
+            "route": "4",
+            "status": "half",
+            "time": "21:19"
+        }
+    ],
+    "safety_reports": [
+        {
+            "route": "theft",
+            "incident": "laptop",
+            "time": "2026-05-24 21:19"
+        },
+        {
+            "route": "8",
+            "incident": "harassment",
+            "time": "2026-05-24 21:33"
+        }
+    ],
+    "ratings": {}
+}
